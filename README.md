@@ -3,7 +3,6 @@
 Simple binarization tool by K-means++ clustering.
 
 # Useage
-## CUI
 Show help by bellow command.
 
 ```bash

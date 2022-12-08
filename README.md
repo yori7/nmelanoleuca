@@ -10,6 +10,7 @@ python nmelanoleuca.py -h
 ```
 
 # Note
-You can use the alternative gui tool 'melanoleuca'
+You can use the alternative gui tool [melanoleuca](https://github.com/yori7/melanoleuca).
 
-See my repository.
+Preparing successor [mike](https://github.com/yori7/mike).
+
